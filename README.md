@@ -1,23 +1,32 @@
-# MyST Quickstart
+# Open Science
 
-[![Made with MyST](https://img.shields.io/badge/made%20with-myst-orange)](https://myst.tools)
+[![](images/utk-artsci.jpg)](https://artsci.utk.edu)
 
-This repository contains the files used in the [quickstart guide](https://mystmd.org/guide/quickstart), and can be used to follow that guide, before trying MyST with your own content.
+## Overview
 
-> **Note** This is **not** a good example of an actual MyST project! The repositories purpose is to be a simple markdown + notebook repository that can be transformed throughout a tutorial.
+The Open Science Workshop and Symposium is sponsored by the [College of Arts and Sciences](https://artsci.utk.edu) at the University of Tennessee, Knoxville. It aims to promote transparency, reproducibility, and accessibility in research through open science principles.
 
-The goals of the [quickstart guide](https://myst.tools/docs/mystjs/quickstart) are:
+## Workshop Schedule
 
-1. Create a `myst` site, using the standard template
-2. Improve the frontmatter, to add authors, affiliations and other metadata
-3. Export the paper as a PDF, Word document, and LaTeX files
-4. Integrate a Jupyter Notebook output into our paper, to improve reproducibility
-5. Publish a website of with our work 🚀
+The workshop will be held weekly on Mondays, covering the following topics:
 
-## Improving Frontmatter and MyST Site
+- **Open Code**: Best practices for sharing and collaborating on code.
+- **Open Data**: Principles and tools for making research data openly available.
+- **Open Results**: Ensuring transparency and reproducibility in research findings.
+- **Open Publishing**: Strategies for disseminating research through open-access platforms.
 
-![](./images/frontmatter-after.png)
+Each session lasts for one hour.
 
-## Export as a PDF
+## Symposium
 
-![](./images/export-pdf.png)
+The symposium will feature external speakers discussing various aspects of open science, sharing insights, and fostering collaboration.
+
+## Location & Registration
+
+- **Location**: University of Tennessee, Knoxville
+- **Dates**: Workshop sessions every Monday; Symposium date to be announced.
+- **Registration**: Details coming soon.
+
+## Contact
+
+For inquiries, please reach out to Dr. [Qiusheng Wu](https://geography.utk.edu/people/instructional-faculty/wu-qiusheng) at qwu18@utk.edu.
