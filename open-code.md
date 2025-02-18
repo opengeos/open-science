@@ -34,4 +34,4 @@ This workshop is designed for researchers, students, and faculty who want to imp
 
 ## Registration
 
-Registration details will be provided soon.
+To register for the workshop, please complete the registration form at <https://tiny.utk.edu/openscience-register>.
