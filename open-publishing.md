@@ -18,7 +18,7 @@ The Open Publishing Workshop will cover strategies for disseminating research th
 
 ## Date and Time
 
-- **Date**: March 31, 2025
+- **Date**: April 7, 2025
 - **Time**: 10:00 AM - 11:00 AM ET
 - **Location:** Virtual (Zoom link to be provided)
 

@@ -1,30 +1,31 @@
 # Open Science
 
-[![](images/utk-artsci.jpg)](https://artsci.utk.edu)
+![](images/header.jpg)
 
 ## Overview
 
-The Open Science Workshop and Symposium is sponsored by the [College of Arts and Sciences](https://artsci.utk.edu) at the University of Tennessee, Knoxville. It aims to promote transparency, reproducibility, and accessibility in research through open science principles.
+The Open Science Workshop and Symposium is sponsored by the [College of Arts and Sciences](https://artsci.utk.edu) at the University of Tennessee, Knoxville (UTK). It aims to promote transparency, reproducibility, and accessibility in research through open science principles. The workshop series is organized by Dr. Qiusheng Wu in collaboration with the [UTK Libraries](https://www.lib.utk.edu), leveraging their expertise in open-access publishing, data management, and digital scholarship to support researchers in adopting open science practices.
 
 ## Workshop Schedule
 
-The virtual workshop will be held weekly on Mondays from 10-11 AM ET in March 2025, covering the following topics:
+The virtual workshop series will be held weekly on Mondays from 10-11 AM ET from March 10 to April 7, covering the following topics:
 
-| Date           | Topic           | Description                                                          |
-| -------------- | --------------- | -------------------------------------------------------------------- |
-| March 10, 2025 | Open Code       | Best practices for sharing and collaborating on code.                |
-| March 17, 2025 | Open Data       | Principles and tools for making research data openly available.      |
-| March 24, 2025 | Open Results    | Ensuring transparency and reproducibility in research findings.      |
-| March 31, 2025 | Open Publishing | Strategies for disseminating research through open-access platforms. |
+| Date           | Presenter                                                                                | Topic               | Description                                                         |
+| -------------- | ---------------------------------------------------------------------------------------- | ------------------- | ------------------------------------------------------------------- |
+| March 10, 2025 | [Qiusheng Wu](https://geography.utk.edu/people/instructional-faculty/wu-qiusheng)        | Open Code           | Best practices for sharing and collaborating on code.               |
+| March 17, 2025 | [Qiusheng Wu](https://geography.utk.edu/people/instructional-faculty/wu-qiusheng)        | Open Data           | Principles and tools for making research data openly available.     |
+| March 24, 2025 | [Qiusheng Wu](https://geography.utk.edu/people/instructional-faculty/wu-qiusheng)        | Open Results        | Ensuring transparency and reproducibility in research findings.     |
+| March 31, 2025 | [Olivia Chin](https://libguides.utk.edu/prf.php?id=c696b1dd-db08-11ee-ad2f-0a92c88187d1) | Open-Access Funding | Explore open-access funds and discounts available at UTK.           |
+| April 7, 2025  | [Qiusheng Wu](https://geography.utk.edu/people/instructional-faculty/wu-qiusheng)        | Open Publishing     | Building publication-quality books and documents with Jupyter Book. |
 
-The workshop will be conducted via Zoom. The registration link will be provided soon.
+The workshop series will be conducted via Zoom. The registration link will be provided soon.
 
 ## Symposium
 
 The in-person symposium will feature external speakers discussing various aspects of open science, sharing insights, and fostering collaboration.
 
 - **Location**: The Lindsay Young Auditorium in [John C. Hodges Library](https://maps.utk.edu/?id=314#!m/276034?share), University of Tennessee, Knoxville
-- **Date & Time**: April 3, 2025, 3:30 - 4:00 PM ET (Reception), 4:00 - 5:15 PM ET (Symposium)
+- **Date & Time**: April 3, 2025, 3:30 - 4:00 PM ET (Reception), 4:00 - 5:30 PM ET (Symposium)
 - **Registration**: Details coming soon.
 
 ## Contact
