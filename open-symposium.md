@@ -12,25 +12,25 @@ The in-person symposium will feature external speakers discussing various aspect
 
 ![](https://i.imgur.com/slbcvb6.jpg)
 
-- Affiliation: NASA
-- Title: Office of the Chief Science Data Officer Program Scientist
-- Website: https://cgentemann.github.io
-- About: Dr. Gentemann leads NASA’s Transform to Open Science ([TOPS](https://science.nasa.gov/open-science/tops)) mission.
+- **Affiliation:** NASA
+- **Title:** Office of the Chief Science Data Officer Program Scientist
+- **Website:** https://cgentemann.github.io
+- **About:** Dr. Gentemann leads NASA’s Transform to Open Science ([TOPS](https://science.nasa.gov/open-science/tops)) mission.
 
 ### Dr. Fernando Pérez
 
 ![](https://i.imgur.com/i2i0RQI.jpg)
 
-- Affiliation: University of California, Berkeley
-- Title: Director for Berkeley Institute for Data Science
-- Website: https://bids.berkeley.edu/people/fernando-perez
-- About: Dr. Pérez is a co-founder of [Project Jupyter](https://jupyter.org) and a leader in the open-source scientific computing community.
+- **Affiliation:** University of California, Berkeley
+- **Title:** Director for Berkeley Institute for Data Science
+- **Website:** https://bids.berkeley.edu/people/fernando-perez
+- **About:** Dr. Pérez is a co-founder of [Project Jupyter](https://jupyter.org) and a leader in the open-source scientific computing community.
 
 ### Dr. Tasha Snow
 
 ![](https://i.imgur.com/3h14VGC.jpg)
 
-- Affiliation: NASA Goddard Space Flight Center
-- Title: Assistant Research Scientist
-- Website: https://tsnow03.github.io/openscience.html
-- About: Dr. Snow co-founded CryoCloud JupyterHub for NASA Cryosphere communities and received the [AGU Open Science Recognition Prize](https://www.minesnewsroom.com/news/tasha-snow-receives-2023-agu-open-science-recognition-prize) in 2023.
+- **Affiliation:** NASA Goddard Space Flight Center
+- **Title:** Assistant Research Scientist
+- **Website:** https://tsnow03.github.io/openscience.html
+- **About:** Dr. Snow co-founded CryoCloud JupyterHub for NASA Cryosphere communities and received the [AGU Open Science Recognition Prize](https://www.minesnewsroom.com/news/tasha-snow-receives-2023-agu-open-science-recognition-prize) in 2023.
