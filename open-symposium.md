@@ -30,7 +30,7 @@ The in-person symposium will feature external speakers discussing various aspect
 
 ![](https://i.imgur.com/3h14VGC.jpg)
 
-- **Affiliation:** NASA Goddard Space Flight Center
+- **Affiliation:** UMD Earth and Space Science Interdisciplinary Center and NASA Goddard Space Flight Center
 - **Title:** Assistant Research Scientist
 - **Website:** https://tsnow03.github.io/openscience.html
 - **About:** Dr. Snow co-founded CryoCloud JupyterHub for NASA Cryosphere communities and received the [AGU Open Science Recognition Prize](https://www.minesnewsroom.com/news/tasha-snow-receives-2023-agu-open-science-recognition-prize) in 2023.
