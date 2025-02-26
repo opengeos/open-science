@@ -1,3 +1,5 @@
+# Spatial Data Management
+
 Welcome to the official course website for "_Spatial Data Management_", offered at the University of Tennessee, Knoxville.
 
 ## Course Overview
