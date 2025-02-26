@@ -1,6 +1,6 @@
 # Introduction to GIS Programming
 
-Welcome to the official course website for "_Introduction to GIS Programming_," offered at the University of Tennessee, Knoxville.
+Welcome to the official course website for _**Introduction to GIS Programming**_, offered at the University of Tennessee, Knoxville.
 
 ## Course Overview
 

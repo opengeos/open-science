@@ -1,4 +1,6 @@
-Welcome to the official course website for "_Spatial Data Management_", offered at the University of Tennessee, Knoxville.
+# Spatial Data Management
+
+Welcome to the official course website for _**Spatial Data Management**_, offered at the University of Tennessee, Knoxville.
 
 ## Course Overview
 
@@ -26,7 +28,7 @@ Please note that you can access the [course materials](https://geog-414.gishub.o
 
 [Enroll Now](https://tiny.utk.edu/spatial-data-management)
 
-**Lecture Videos**
+## Lecture Videos
 
 - [Spatial Data Management with Google Earth Engine](https://www.youtube.com/playlist?list=PLAxJ4-o7ZoPdz9LHIJIxHlZe3t-MRCn61)
 - [Spatial Data Management with DuckDB](https://www.youtube.com/playlist?list=PLAxJ4-o7ZoPe9SkgnophygyLjTDBzIEbi)
