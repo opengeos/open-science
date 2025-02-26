@@ -1,27 +1,41 @@
 # Open Code
 
-## Workshop 1: Introduction to Open Code with Git, GitHub, VS Code, and uv
+## Workshop Description
 
-### Objectives
+Modern research relies heavily on computational tools, and adopting open coding practices enhances reproducibility, collaboration, and transparency. This workshop provides an introduction to open code principles and practical tools for managing research code efficiently. Participants will learn essential skills in version control, collaborative coding, and project management using Git, GitHub, VS Code, and uv.
 
-By the end of this workshop, participants will be able to:
+This session is designed for researchers, students, and faculty members who want to streamline their coding workflows and embrace best practices in open research software. No prior experience with Git, GitHub, or uv is required, making it an excellent starting point for beginners.
 
-- Understand the importance of open code in research.
-- Use Git for version control.
-- Work with GitHub for collaboration and sharing.
-- Utilize VS Code for Git and GitHub integration.
-- Use uv for package and project management.
-- Apply best practices for open and reproducible research code.
+### Learning Outcomes
 
----
+By the end of the workshop, participants will be able to:
+
+- Understand the significance of open code in research.
+- Utilize Git for version control and code management.
+- Navigate GitHub for collaboration and sharing.
+- Integrate Git and GitHub seamlessly within VS Code.
+- Manage Python projects and dependencies efficiently using uv.
+- Implement best practices for open and reproducible research coding.
+
+### Format
+
+This is an interactive, hands-on workshop conducted virtually via Zoom. Participants will follow along with demonstrations and practice key concepts through guided exercises.
+
+### Prerequisites
+
+To ensure a smooth learning experience, participants are encouraged to install the following tools before the workshop:
+
+- **Git**: [Download Git](https://git-scm.com/)
+- **VS Code**: [Download VS Code](https://code.visualstudio.com/)
+- **uv**: [Installation Guide](https://docs.astral.sh/uv/getting-started/installation/)
+
+We look forward to seeing you at the workshop and helping you unlock the power of open code in your research!
 
 ## Date and Time
 
 - **Date**: Monday, March 10, 2025
 - **Time**: 10:00 AM - 11:00 AM ET
 - **Location**: Virtual (Zoom link will be provided upon [registration](https://tiny.utk.edu/openscience-register))
-
-This session will be conducted online, allowing participants to join from anywhere. Ensure you have [Git](https://git-scm.com/), [VS Code](https://code.visualstudio.com/), and [uv](https://docs.astral.sh/uv/getting-started/installation/) installed before the workshop.
 
 ## Who Should Attend?
 
