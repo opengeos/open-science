@@ -37,6 +37,13 @@ We look forward to seeing you at the workshop and helping you unlock the power o
 - **Time**: 10:00 AM - 11:00 AM ET
 - **Location**: Virtual (Zoom link will be provided upon [registration](https://tiny.utk.edu/openscience-register))
 
+## Instructor
+
+- Name: [Qiusheng Wu](https://geography.utk.edu/people/instructional-faculty/wu-qiusheng)
+- Affiliation: [Department of Geography & Sustainability](https://geography.utk.edu), University of Tennessee, Knoxville
+- Email: qwu18@utk.edu
+- Website: <https://gishub.org>
+
 ## Who Should Attend?
 
 This workshop is ideal for:
