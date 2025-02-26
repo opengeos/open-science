@@ -26,6 +26,10 @@ project:
         - file: courses/intro-gis-programming.md
         - file: courses/spatial-data-management.md
         - file: courses/geographic-software-design.md
+    - title: Open-Access Books
+      children:
+        - file: books/geemap.md
+        - file: books/leafmap.md
     - title: Open-Source Projects
       children:
         - file: projects/opengeos.md
