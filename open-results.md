@@ -18,9 +18,9 @@ The Open Results Workshop will focus on ensuring transparency and reproducibilit
 
 ## Date and Time
 
-- **Date**: March 24, 2025
+- **Date**: April 7, 2025
 - **Time**: 10:00 AM - 11:00 AM ET
-- **Location:** Virtual (Zoom link to be provided)
+- **Location:** Virtual (Zoom link will be provided upon [registration](https://tiny.utk.edu/openscience-register))
 
 ## Who Should Attend?
 

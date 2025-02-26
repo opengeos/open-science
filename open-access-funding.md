@@ -12,7 +12,7 @@ Explore funding options for your open access research! In this workshop, you'll 
 
 - **Date**: March 31, 2025
 - **Time**: 10:00 AM - 11:00 AM ET
-- **Location:** Virtual (Zoom link to be provided)
+- **Location:** Virtual (Zoom link will be provided upon [registration](https://tiny.utk.edu/openscience-register))
 
 ## Presenter
 
