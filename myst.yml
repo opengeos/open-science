@@ -16,8 +16,8 @@ project:
       children:
         - file: open-code.md
         - file: open-data.md
-        - file: open-results.md
         - file: open-access-funding.md
+        - file: open-results.md
         - file: open-publishing.md
     - title: Open Science Symposium
       children:
