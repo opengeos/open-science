@@ -26,7 +26,7 @@ The Open Code Workshop will focus on using Git and GitHub for collaborative codi
 
 - **Date**: March 10, 2025
 - **Time**: 10:00 AM - 11:00 AM ET
-- **Location:** Virtual (Zoom link to be provided)
+- **Location:** Virtual (Zoom link will be provided upon [registration](https://tiny.utk.edu/openscience-register))
 
 ## Who Should Attend?
 

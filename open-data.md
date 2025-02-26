@@ -21,9 +21,9 @@ The Open Data Workshop will explore principles and tools for making research dat
 
 ## Date and Time
 
-- **Date**: March 17, 2025
+- **Date**: March 24, 2025
 - **Time**: 10:00 AM - 11:00 AM ET
-- **Location:** Virtual (Zoom link to be provided)
+- **Location:** Virtual (Zoom link will be provided upon [registration](https://tiny.utk.edu/openscience-register))
 
 ## Who Should Attend?
 
