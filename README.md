@@ -10,13 +10,13 @@ The Open Science Workshop and Symposium is sponsored by the [College of Arts and
 
 The virtual workshop series will be held weekly on Mondays from 10-11 AM ET from March 10 to April 21, covering the following topics:
 
-| Date           | Presenter                                                                                | Topic               | Description                                                         |
-| -------------- | ---------------------------------------------------------------------------------------- | ------------------- | ------------------------------------------------------------------- |
-| March 10, 2025 | [Qiusheng Wu](https://geography.utk.edu/people/instructional-faculty/wu-qiusheng)        | Open Code           | Best practices for sharing and collaborating on code.               |
-| March 24, 2025 | [Qiusheng Wu](https://geography.utk.edu/people/instructional-faculty/wu-qiusheng)        | Open Data           | Principles and tools for making research data openly available.     |
-| March 31, 2025 | [Olivia Chin](https://libguides.utk.edu/prf.php?id=c696b1dd-db08-11ee-ad2f-0a92c88187d1) | Open-Access Funding | Explore open-access funds and discounts available at UTK.           |
-| April 7, 2025  | [Qiusheng Wu](https://geography.utk.edu/people/instructional-faculty/wu-qiusheng)        | Open Results        | Ensuring transparency and reproducibility in research findings.     |
-| April 21, 2025 | [Qiusheng Wu](https://geography.utk.edu/people/instructional-faculty/wu-qiusheng)        | Open Publishing     | Building publication-quality books and documents with Jupyter Book. |
+| Date           | Presenter                                                                                | Topic                                                                     | Description                                                         |
+| -------------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| March 10, 2025 | [Qiusheng Wu](https://geography.utk.edu/people/instructional-faculty/wu-qiusheng)        | [Open Code](https://openscience.gishub.org/open-code)                     | Best practices for sharing and collaborating on code.               |
+| March 24, 2025 | [Qiusheng Wu](https://geography.utk.edu/people/instructional-faculty/wu-qiusheng)        | [Open Data](https://openscience.gishub.org/open-data)                     | Principles and tools for making research data openly available.     |
+| March 31, 2025 | [Olivia Chin](https://libguides.utk.edu/prf.php?id=c696b1dd-db08-11ee-ad2f-0a92c88187d1) | [Open-Access Funding](https://openscience.gishub.org/open-access-funding) | Explore open-access funds and discounts available at UTK.           |
+| April 7, 2025  | [Qiusheng Wu](https://geography.utk.edu/people/instructional-faculty/wu-qiusheng)        | [Open Results](https://openscience.gishub.org/open-results)               | Ensuring transparency and reproducibility in research findings.     |
+| April 21, 2025 | [Qiusheng Wu](https://geography.utk.edu/people/instructional-faculty/wu-qiusheng)        | [Open Publishing](https://openscience.gishub.org/open-publishing)         | Building publication-quality books and documents with Jupyter Book. |
 
 To register for the workshop series, please complete the registration form at <https://tiny.utk.edu/openscience-register>.
 
