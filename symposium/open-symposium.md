@@ -8,15 +8,6 @@ The in-person symposium will feature external speakers discussing various aspect
 
 ## Speakers
 
-### Dr. Chelle Gentemann
-
-![](https://i.imgur.com/slbcvb6.jpg)
-
-- **Affiliation:** NASA
-- **Title:** Office of the Chief Science Data Officer Program Scientist
-- **Website:** https://cgentemann.github.io
-- **About:** Dr. Gentemann leads NASA’s Transform to Open Science ([TOPS](https://science.nasa.gov/open-science/tops)) mission.
-
 ### Dr. Fernando Pérez
 
 ![](https://i.imgur.com/i2i0RQI.jpg)

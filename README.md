@@ -26,7 +26,7 @@ To register for the workshop series, please complete the registration form at <h
 
 The in-person [Open Science Symposium](https://openscience.gishub.org/open-symposium) will feature external speakers discussing various aspects of open science, sharing insights, and fostering collaboration.
 
-- **Keynote Speakers**: Drs. [Chelle Gentemann](https://openscience.gishub.org/open-symposium#dr-chelle-gentemann), [Fernando Pérez](https://openscience.gishub.org/open-symposium#dr-fernando-p-rez), and [Tasha Snow](https://openscience.gishub.org/open-symposium#dr-tasha-snow)
+- **Keynote Speakers**: Drs. [Fernando Pérez](https://openscience.gishub.org/open-symposium#dr-fernando-p-rez) and [Tasha Snow](https://openscience.gishub.org/open-symposium#dr-tasha-snow)
 - **Location**: The Lindsay Young Auditorium in [John C. Hodges Library](https://maps.utk.edu/?id=314#!m/276034?share), University of Tennessee, Knoxville
 - **Date & Time**: April 3, 2025, 3:30 - 4:00 PM ET (Reception), 4:00 - 5:30 PM ET (Symposium)
 - **Registration**: Please RSVP at <https://tiny.utk.edu/OSS-RSVP> (for in-person attendance)
