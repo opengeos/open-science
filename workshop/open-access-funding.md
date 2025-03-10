@@ -31,3 +31,7 @@ This workshop is designed for researchers, students, and faculty who want to lea
 ## Registration
 
 To register for the workshop, please complete the registration form at <https://tiny.utk.edu/openscience-register>.
+
+## Workshop Recording
+
+A recording of the workshop will be available on the [Open Geospatial Solutions](https://www.youtube.com/playlist?list=PLAxJ4-o7ZoPcudAyC050UOrSDr3v9leUP) YouTube channel after the event.

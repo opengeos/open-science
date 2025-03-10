@@ -58,6 +58,10 @@ No prior experience with Git or GitHub is required, making this session suitable
 
 To attend, please complete the registration form at [this link](https://tiny.utk.edu/openscience-register). Once registered, you will receive a confirmation email with the Zoom link and preparation instructions.
 
+## Workshop Recording
+
+A recording of the workshop will be available on the [Open Geospatial Solutions](https://www.youtube.com/playlist?list=PLAxJ4-o7ZoPcudAyC050UOrSDr3v9leUP) YouTube channel after the event.
+
 ---
 
 ## 1. Introduction to Open Code

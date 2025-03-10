@@ -4,7 +4,9 @@
 
 ## Overview
 
-The Open Science Workshop and Symposium is sponsored by the [College of Arts and Sciences](https://artsci.utk.edu) at the University of Tennessee, Knoxville (UTK). It aims to increase awareness of open science across UT campuses, promoting principles of transparency, reproducibility, and accessibility in research. The Open Science Workshop Series is organized by Dr. Qiusheng Wu in collaboration with the [UTK Libraries](https://www.lib.utk.edu), leveraging their expertise in open-access publishing, data management, and digital scholarship to support researchers in adopting open science practices.
+**Open science** is a movement aimed at making scientific research, data, and dissemination accessible to all levels of society, including the general public. It includes practices such as open access publishing, open data sharing, and open-source software development. The primary goals are to enhance transparency, reproducibility, and collaboration within the scientific process. Notable examples of open science initiatives include [open.science.gov](https://open.science.gov) and [jupyter.org](https://jupyter.org).
+
+The **Open Science Workshop and Symposium** is sponsored by the [College of Arts and Sciences](https://artsci.utk.edu) at the University of Tennessee, Knoxville (UTK). It aims to increase awareness of open science across UT campuses, promoting principles of transparency, reproducibility, and accessibility in research. The Open Science Workshop Series is organized by Dr. Qiusheng Wu in collaboration with the [UTK Libraries](https://www.lib.utk.edu), leveraging their expertise in open-access publishing, data management, and digital scholarship to support researchers in adopting open science practices.
 
 ## Workshop Schedule
 
