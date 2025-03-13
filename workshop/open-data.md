@@ -38,10 +38,17 @@ To ensure a smooth learning experience, participants are encouraged to create ac
 - **Time**: 10:00 AM - 11:00 AM ET
 - **Location**: Virtual (Zoom link will be provided upon [registration](https://tiny.utk.edu/openscience-register))
 
-## Instructor
+## Instructors
+
+- Name: [Brianne Dosch](https://libguides.utk.edu/prf.php?account_id=210277)
+- Affiliation: UT Libraries, The University of Tennessee, Knoxville
+- Email: bdosch@utk.edu
+- Website: <https://libguides.utk.edu/prf.php?account_id=210277>
+
+---
 
 - Name: [Qiusheng Wu](https://geography.utk.edu/people/instructional-faculty/wu-qiusheng)
-- Affiliation: [Department of Geography & Sustainability](https://geography.utk.edu), University of Tennessee, Knoxville
+- Affiliation: [Department of Geography & Sustainability](https://geography.utk.edu), The University of Tennessee, Knoxville
 - Email: qwu18@utk.edu
 - Website: <https://gishub.org>
 
