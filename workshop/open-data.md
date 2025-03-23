@@ -2,7 +2,7 @@
 
 ## Workshop Description
 
-Open data is essential for fostering transparency, collaboration, and reproducibility in research. This workshop introduces participants to the principles of open data sharing and practical tools for depositing, managing, and sharing datasets on various open-access platforms. Participants will learn how to use platforms such as Zenodo, GitHub, Figshare, and Dryad to make their research data FAIR (Findable, Accessible, Interoperable, and Reusable).
+Open data is essential for fostering transparency, collaboration, and reproducibility in research. This workshop introduces participants to the principles of open data sharing and practical tools for depositing, managing, and sharing datasets on various open-access platforms. Participants will learn how to use platforms such as GitHub, Hugging Face, Zenodo, Figshare, and Dryad to make their research data FAIR (Findable, Accessible, Interoperable, and Reusable).
 
 This session is ideal for researchers, educators, and students looking to enhance their data-sharing practices. No prior experience with open data repositories is required, making it accessible to beginners.
 
@@ -25,8 +25,9 @@ This is an interactive, hands-on workshop. Participants will follow along with d
 
 To ensure a smooth learning experience, participants are encouraged to create accounts on the following platforms before the workshop:
 
-- **Zenodo**: [Register](https://zenodo.org/)
 - **GitHub**: [Sign up](https://github.com/)
+- **Hugging Face**: [Sign up](https://huggingface.co/)
+- **Zenodo**: [Register](https://zenodo.org/)
 - **Figshare**: [Create an account](https://figshare.com/)
 - **Dryad**: [Join here](https://datadryad.org/)
 
@@ -83,8 +84,9 @@ A recording of the workshop will be available on the [Open Geospatial Solutions]
 
 ### Tools for Open Data Sharing
 
-- **Zenodo**: A general-purpose open repository developed by CERN.
 - **GitHub**: A version control platform that supports dataset storage and collaboration.
+- **Hugging Face**: A platform for sharing machine learning models and datasets.
+- **Zenodo**: A general-purpose open repository developed by CERN.
 - **Figshare**: A repository for datasets, figures, and supplementary materials.
 - **Dryad**: A curated repository for data underlying scientific publications.
 
@@ -99,6 +101,15 @@ A recording of the workshop will be available on the [Open Geospatial Solutions]
 3. Write a README.md file with dataset descriptions.
 4. Use GitHub releases to archive data snapshots.
 5. Generate a DOI using Zenodo-GitHub integration.
+
+### Using Hugging Face for Datasets
+
+1. Create a new dataset repository on Hugging Face.
+2. Upload your dataset files (e.g., CSV, JSON).
+3. Add a README.md file to describe the dataset.
+4. Use the Hugging Face Datasets library to load and share datasets easily.
+5. Optionally, create a model card for machine learning datasets.
+6. Share the dataset link for public access.
 
 ### Uploading Data to Zenodo
 
@@ -130,7 +141,7 @@ A recording of the workshop will be available on the [Open Geospatial Solutions]
 ### Ensuring Data Quality and FAIR Principles
 
 - Provide rich metadata for better discovery.
-- Use open formats (e.g., CSV, JSON, NetCDF) to ensure accessibility.
+- Use open formats (e.g., CSV, JSON, GeoTIFF) to ensure accessibility.
 - Apply persistent identifiers (DOIs) to datasets.
 - Document datasets with README files and usage instructions.
 
@@ -162,8 +173,9 @@ For those interested in exploring additional open data repositories, here are so
 
 ## Resources & Further Reading
 
-- [Zenodo](https://zenodo.org/)
 - [GitHub Guide for Data Sharing](https://guides.github.com/activities/data-sharing/)
+- [Hugging Face Datasets Documentation](https://huggingface.co/docs/datasets/)
+- [Zenodo](https://zenodo.org/)
 - [Figshare](https://figshare.com/)
 - [Dryad](https://datadryad.org/)
 - [FAIR Principles](https://www.go-fair.org/fair-principles/)
