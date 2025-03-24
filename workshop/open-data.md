@@ -48,6 +48,13 @@ To ensure a smooth learning experience, participants are encouraged to create ac
 
 ---
 
+- Name: [Jordan Kaufman](https://faculty.utk.edu/Jordan.Kaufman)
+- Affiliation: UT Libraries, The University of Tennessee, Knoxville
+- Email: jkaufma9@utk.edu
+- Website: <https://faculty.utk.edu/Jordan.Kaufman>
+
+---
+
 - Name: [Qiusheng Wu](https://geography.utk.edu/people/instructional-faculty/wu-qiusheng)
 - Affiliation: [Department of Geography & Sustainability](https://geography.utk.edu), The University of Tennessee, Knoxville
 - Email: qwu18@utk.edu
