@@ -158,6 +158,13 @@ A recording of the workshop will be available on the [Open Geospatial Solutions]
 
 ---
 
+## UTK Libraries Resources
+
+- UT Libraries’ Research Guide for Research Data Services - https://libguides.utk.edu/dataservices
+- UT Libraries’ Data Archiving and Sharing Support Fund - https://www.lib.utk.edu/scholar/data-archiving-and-sharing-support-fund
+- The Data Rescue Project - https://www.datarescueproject.org
+- Open Context’s overview of the FAIR and CARE principles - https://opencontext.org/about/fair-care
+
 ## More Open Data Repositories
 
 For those interested in exploring additional open data repositories, here are some other popular platforms:
