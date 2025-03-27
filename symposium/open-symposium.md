@@ -13,7 +13,7 @@ The in-person symposium will feature external speakers discussing various aspect
 
 - **Affiliation:** Wherobots
 - **Title:** Director of Customer Engineering & Product Led Growth
-- **Website:** https://forrest.nyc and https://youtube.com/@MattForrest
+- **Website:** https://forrest.nyc
 - **About:** Matt is public educator with over a decade of experience in geospatial technology and data. He is dedicated to empowering others to utilize modern GIS and spatial SQL to enhance their work and advance their careers.
 
 ### Dr. Tasha Snow
