@@ -25,7 +25,7 @@ The in-person symposium will feature external speakers discussing various aspect
 
 ![](https://i.imgur.com/3h14VGC.jpg)
 
-- **Affiliation:** UMD Earth and Space Science Interdisciplinary Center and NASA Goddard Space Flight Center
+- **Affiliation:** UMD Earth System Science Interdisciplinary Center and NASA Goddard Space Flight Center
 - **Title:** Research Scientist
 - **Website:** https://tsnow03.github.io
 - **Presentation title:** Open science as a process, not a product: Insights from the NASA CryoCloud JupyterHub communities
