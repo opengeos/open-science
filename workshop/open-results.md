@@ -140,10 +140,21 @@ A recording of the workshop will be available on the [Open Geospatial Solutions]
 
 ---
 
+## Example Repositories
+
+- [username.github.io](https://pages.github.com)
+- [gh-pages-html-template](https://github.com/giswqs/gh-pages-html-template)
+- [mkdocs-template](https://github.com/giswqs/mkdocs-template)
+- [open-results-demo](https://github.com/giswqs/open-results-demo)
+- [notebook-share](https://github.com/giswqs/notebook-share)
+- [maps.gishub.org](https://github.com/opengeos/maps.gishub.org)
+
 ## Resources & Further Reading
 
-- [Google Colab](https://colab.research.google.com/)
-- [Jupyter Notebook](https://jupyter.org/)
+- [Visual Studio Code](https://geog-510.gishub.org/book/software/vscode.html)
+- [Git](https://geog-510.gishub.org/book/software/git.html)
+- [Google Colab](https://geog-510.gishub.org/book/software/colab.html)
+- [Jupyter Notebook](https://geog-510.gishub.org/book/software/jupyterlab.html)
 - [MkDocs](https://www.mkdocs.org/)
 - [Zenodo](https://zenodo.org/)
 - [Creative Commons Licensing](https://creativecommons.org/)
