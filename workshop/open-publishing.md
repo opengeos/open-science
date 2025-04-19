@@ -4,7 +4,7 @@
 
 Open publishing enhances accessibility, transparency, and reproducibility in research. This workshop introduces participants to open publishing principles and practical tools for creating interactive and reproducible scientific documents. Participants will learn how to use Jupyter Book and MyST Markdown to develop and publish open research content efficiently.
 
-This session is ideal for researchers, educators, and students looking to improve their scientific communication. No prior experience with Jupyter Book or MyST Markdown is required, making it accessible to beginners.
+This session is ideal for researchers, educators, and students looking to improve their scientific communication. No prior experience with [Jupyter Book](https://jupyterbook.org/) or [MyST Markdown](https://mystmd.org) is required, making it accessible to beginners.
 
 ### Learning Outcomes
 
@@ -64,7 +64,7 @@ A recording of the workshop will be available on the [Open Geospatial Solutions]
 
 ---
 
-## 1. Introduction to Open Publishing
+## Introduction to Open Publishing
 
 ### Why Open Publishing?
 
@@ -83,70 +83,354 @@ A recording of the workshop will be available on the [Open Geospatial Solutions]
 
 ---
 
-## 2. Hands-on: Creating a Jupyter Book Project
+## Workshop Modules
 
-### Setting Up the Environment
+### Module 1: Setup and Environment
 
-```sh
-pip install -U jupyter-book mystmd
+- Introduction to MyST
+- Setting up your environment
+- Creating your first MyST project
+
+### Module 2: Basic Document Structure
+
+- Page frontmatter
+- Adding citations
+- Inserting and referencing figures
+- Adding tables and other content types
+
+### Module 3: Interactive Documents
+
+- Adding executable code cells
+- Running notebooks within MyST
+- Cross-referencing content
+- Creating interactive elements
+
+### Module 4: Publishing and Distribution
+
+- Exporting to different formats (PDF, Word, LaTeX)
+- Deploying to GitHub Pages
+- Customizing templates and themes
+- Building a TOC structure
+
+## Detailed Schedule
+
+### Module 1: Setup and Environment
+
+#### Setup Instructions
+
+```bash
+# Create and activate conda environment
+conda create -n myst-workshop python=3.12
+conda activate myst-workshop
+
+# Install required packages
+conda install -c conda-forge mystmd
+conda install -c conda-forge texlive-core latexmk jupyterlab-myst ipykernel
+
+# Verify installation
+myst -v
 ```
 
-### Creating a New Jupyter Book
+**VS Code Extension**: Install [MyST-Markdown](https://marketplace.visualstudio.com/items/?itemName=ExecutableBookProject.myst-highlight)
 
-```sh
-jupyter-book create mybook/
+#### Your First MyST Project
+
+```bash
+# Clone starter template
+git clone https://github.com/jupyter-book/mystmd-quickstart.git
+cd mystmd-quickstart
+
+# Start the MyST server
+myst start
 ```
 
-### Writing Content with MyST Markdown
+#### Core MyST Commands
 
-- Headings and subheadings
-- Citations and references
-- Equations and figures
-- Interactive content and code execution
+```bash
+# Initialize a new project
+myst init
 
-### Building and Previewing the Book
+# Start the preview server (with execution)
+myst start --execute
 
-```sh
-jupyter-book build mybook/
+# Clean build files
+myst clean
+myst clean --all
+myst clean --templates --cache
 ```
 
+### Module 2: Basic Document Structure
+
+#### Project Configuration
+
+Edit `myst.yml`:
+
+```yaml
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: ab440adc-2db2-4534-8548-ad2b03879434
+  title: Introduction to GIS Programming
+  github: https://github.com/jupyter-book/mystmd-quickstart
+site:
+  template: book-theme
+  options:
+    favicon: images/favicon.ico
+    logo: images/logo.png
+```
+
+#### Page Frontmatter
+
+```yaml
 ---
-
-## 3. Publishing and Best Practices
-
-### Hosting Options
-
-- **GitHub Pages**
-- **ReadTheDocs**
-
-### Version Control with GitHub
-
-```sh
-# Initialize a Git repository
-cd mybook
-git init
-git add .
-git commit -m "Initial commit"
-git push origin main
+title: Introduction to GIS Programming
+subtitle: Using Python for GIS Applications
+authors:
+  - name: Your Name
+    affiliations:
+      - Your University
+    orcid: 0000-0000-0000-0000
+    email: your.email@example.com
+license: CC-BY-4.0
+keywords: GIS, python, geospatial, mapping
+abstract: |
+  This tutorial introduces geospatial analysis techniques using Python libraries and demonstrates how to effectively visualize and analyze geographic data.
+kernelspec:
+  name: python3
+  display_name: Python 3
+---
 ```
 
-### Automating Deployment with GitHub Actions
+#### Adding Citations
 
-- Setting up a workflow file for automatic builds.
-- Ensuring seamless updates when content changes.
+To cite using DOI:
 
-### Licensing and Attribution
+```
+Change (Smith et al., 2020) to [](https://doi.org/10.XXXX/XXXXX)
+```
 
-- **Creative Commons Licensing**
-- **FAIR Principles** (Findable, Accessible, Interoperable, Reusable)
+To cite using BibTeX:
 
-### Ensuring Accessibility and Reproducibility
+```
+{cite:p}`myst2023,jupyterbook2021`
+```
 
-- Using version control (Git/GitHub)
-- Structuring content for clarity and navigation
-- Documenting dependencies and software versions
+#### Figures and Images
 
+Basic figure:
+
+```
+:::{figure} ./images/map.png
+:label: my-map-figure
+:alt: GIS map showing population density
+:align: center
+
+Map showing population density in the study area.
+:::
+```
+
+Remote image with alignment:
+
+```
+:::{figure} https://example.com/path/to/image.png
+:align: right
+:width: 40%
+
+Caption for the figure.
+:::
+```
+
+#### Cross-references
+
+Reference a figure:
+
+```
+See [](#my-map-figure) for the spatial distribution.
+```
+
+### Module 3: Interactive Documents
+
+#### Adding Code Cells
+
+In a Markdown file:
+
+````
+```{code-cell}
+:label: simple-map
+import geopandas as gpd
+import matplotlib.pyplot as plt
+
+# Load example data
+world = gpd.read_file(gpd.datasets.get_path('naturalearth_lowres'))
+
+# Plot
+fig, ax = plt.subplots(figsize=(10, 6))
+world.plot(ax=ax)
+plt.title('World Map')
+plt.axis('off')
+````
+
+#### Adding Labels to Code Cells
+
+In notebooks:
+
+```python
+#| label: population-map
+import geopandas as gpd
+world = gpd.read_file(gpd.datasets.get_path('naturalearth_lowres'))
+world.plot(column='pop_est', legend=True)
+```
+
+Then reference:
+
+```
+See the population distribution map in [](#population-map).
+```
+
+#### Executing Notebooks
+
+Make sure to add this to frontmatter:
+
+```yaml
+kernelspec:
+  name: python3
+  display_name: Python 3
+```
+
+Then run:
+
+```bash
+myst start --execute
+```
+
+#### Interactive Elements
+
+Create a dropdown:
+
+```
+:::{note} Solution to Exercise 1
+:class: dropdown
+Here we see that the spatial autocorrelation is positive with a Moran's I value of 0.68.
+:::
+```
+
+### Module 4: Publishing and Distribution
+
+#### Exporting to Various Formats
+
+For Word documents:
+
+```yaml
 ---
+exports:
+  - format: docx
+---
+```
+
+For PDF:
+
+```yaml
+---
+exports:
+  - format: pdf
+    template: volcanica
+    article_type: Report
+---
+```
+
+For LaTeX:
+
+```yaml
+---
+exports:
+  - format: tex
+    template: volcanica
+    article_type: Report
+    output: arxiv.zip
+---
+```
+
+Build command:
+
+```bash
+myst build your_document.md
+```
+
+#### Deploying to GitHub Pages
+
+1. Run `myst init --gh-pages`
+2. Modify workflow file:
+
+```yaml
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Setup Pages
+        uses: actions/configure-pages@v3
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 18.x
+      - name: Install MyST Markdown
+        run: |
+          npm install -g mystmd
+          pip install -r requirements.txt
+          pip install ipykernel
+          python -m ipykernel install --user
+      - name: Build HTML Assets
+        run: myst build --html --execute
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: "./_build/html"
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+```
+
+3. Create a new GitHub repository
+4. Push your content
+5. Enable GitHub Pages in repository settings
+
+#### Managing Table of Contents
+
+Update TOC:
+
+```bash
+myst init --write-toc
+```
+
+Customize TOC:
+
+```yaml
+toc:
+  - file: README.md
+  - file: 01-introduction.md
+  - title: Geospatial Analysis
+    children:
+      - file: chapters/spatial-data.ipynb
+      - file: chapters/visualization.ipynb
+```
+
+Enable section numbering:
+
+```yaml
+project:
+  numbering:
+    heading_1: true
+    heading_2: true
+```
+
+## Demos
+
+- [MyST Demo](https://github.com/giswqs/myst-demo)
+- [Geemap Book](https://book.geemap.org)
+- [Introduction to GIS Programming](https://geog-312.gishub.org)
+- [Geographic Software Design](https://geog-510.gishub.org)
 
 ## Resources & Further Reading
 
