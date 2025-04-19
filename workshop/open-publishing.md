@@ -425,11 +425,17 @@ project:
     heading_2: true
 ```
 
+## Demos
+
+- [MyST Demo](https://github.com/giswqs/myst-demo)
+- [Geemap Book](https://book.geemap.org)
+- [Introduction to GIS Programming](https://geog-312.gishub.org)
+- [Geographic Software Design](https://geog-510.gishub.org)
+
 ## Resources & Further Reading
 
 - [Jupyter Book Documentation](https://jupyterbook.org/)
 - [MyST Markdown Guide](https://myst-parser.readthedocs.io/)
-- [MyST Demo](https://github.com/giswqs/myst-demo)
 - [FAIR Principles](https://www.go-fair.org/fair-principles/)
 - [Creative Commons Licensing](https://creativecommons.org/)
 - [GitHub Pages Guide](https://pages.github.com/)
