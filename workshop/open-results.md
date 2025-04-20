@@ -64,6 +64,10 @@ To attend, please complete the registration form at [this link](https://tiny.utk
 
 A recording of the workshop will be available on the [Open Geospatial Solutions](https://www.youtube.com/playlist?list=PLAxJ4-o7ZoPcudAyC050UOrSDr3v9leUP) YouTube channel after the event.
 
+:::{iframe} https://www.youtube.com/embed/X0LLFfkhQ2Y?si=WQnX8yvBCQsFBh7v
+:width: 100%
+:::
+
 ---
 
 ## 1. Introduction to Open Results
