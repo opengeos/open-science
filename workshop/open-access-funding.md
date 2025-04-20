@@ -35,3 +35,7 @@ To register for the workshop, please complete the registration form at <https://
 ## Workshop Recording
 
 A recording of the workshop will be available on the [Open Geospatial Solutions](https://www.youtube.com/playlist?list=PLAxJ4-o7ZoPcudAyC050UOrSDr3v9leUP) YouTube channel after the event.
+
+:::{iframe} https://www.youtube.com/embed/M4ksjvDFHiA?si=6QyKYSRCLA_8vold
+:width: 100%
+:::

@@ -24,6 +24,12 @@ The virtual workshop series will be held weekly on Mondays from 10-11 AM ET from
 
 To register for the workshop series, please complete the registration form at <https://tiny.utk.edu/openscience-register>.
 
+## Workshop Recordings
+
+:::{iframe} https://www.youtube.com/embed/videoseries?si=esF-olMOyDjE86v9&amp;list=PLAxJ4-o7ZoPcudAyC050UOrSDr3v9leUP
+:width: 100%
+:::
+
 ## Symposium
 
 The in-person [Open Science Symposium](https://openscience.gishub.org/open-symposium) will feature external speakers discussing various aspects of open science, sharing insights, and fostering collaboration.
