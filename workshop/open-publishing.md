@@ -32,7 +32,7 @@ To ensure a smooth learning experience, participants are encouraged to install t
 
 ## Date and Time
 
-- **Date**: Monday, April 21, 2025
+- **Date**: Monday, April 22, 2025
 - **Time**: 10:00 AM - 11:00 AM ET
 - **Location**: Virtual (Zoom link will be provided upon [registration](https://tiny.utk.edu/openscience-register))
 
